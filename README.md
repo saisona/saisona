@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alexandre Saison 👋
 
-<!--
-**saisona/saisona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer specializing in DevOps and Site Reliability Engineering (SRE), currently based in Normandy, France. My expertise lies in designing, deploying, and automating cloud-native infrastructure with a strong focus on reliability and scalability.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **DevOps & SRE:** CI/CD pipelines, automation, infrastructure as code, monitoring, and incident response.
+- **Languages:** Golang (primary), scripting (Bash, Python).
+- **Cloud & Containers:** Kubernetes, Helm, Docker, and cloud platforms.
+- **Open Source:** Contributor to [Simba](https://github.com/simba) and [azure-devops-agent](https://github.com/microsoft/azure-pipelines-agent).
+
+## 🌍 About Me
+
+I am passionate about building resilient systems and streamlining development workflows. My experience spans working with global teams on open-source initiatives and driving improvements in automation and reliability.
+
+I thrive in collaborative environments that encourage innovation and continuous learning. Always eager to tackle new challenges and contribute to impactful projects.
+
+## 📫 Let's Connect
+
+- [LinkedIn - Alexandre Saison](https://www.linkedin.com/in/alexandre-saison/)
+
+---
+
+*Feel free to reach out for collaboration, questions about DevOps, or just to connect!*
