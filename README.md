@@ -7,7 +7,7 @@ I'm a Software Engineer specializing in DevOps and Site Reliability Engineering 
 - **DevOps & SRE:** CI/CD pipelines, automation, infrastructure as code, monitoring, and incident response.
 - **Languages:** Golang (primary), scripting (Bash, Python).
 - **Cloud & Containers:** Kubernetes, Helm, Docker, and cloud platforms.
-- **Open Source:** Contributor to [Simba](https://github.com/simba) and [azure-devops-agent](https://github.com/microsoft/azure-pipelines-agent).
+- **Open Source:** Contributor to [Simba](https://github.com/saisona/simba) and [azure-devops-agent](https://github.com/microsoft/azure-pipelines-agent).
 
 ## 🌍 About Me
 
